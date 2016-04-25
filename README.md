@@ -12,4 +12,5 @@ We discribe a very simple shell script for visualize the caffe training details.
 
 ### Reference
 [1] http://www.gnuplot.info 
+
 [2] https://github.com/BVLC/caffe
