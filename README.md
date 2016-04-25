@@ -8,4 +8,4 @@ We discribe a very simple shell script for visualize the caffe training details.
 3. The caffe modules are also necessary
 
 ### Sample Effect
-![Sample](https://github.com/LouieYang/caf-visual-train/blob/master/curve.jpg)
+![Sample](https://github.com/LouieYang/caf-visual-train/blob/master/Sample/curve.jpg)
